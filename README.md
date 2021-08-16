@@ -1,5 +1,7 @@
-### Hi there 👋
-
+Hi there, welcome to my Git Profile 👋
+  - 🔭 I’m currently working on VNUHCM - University Of Science
+  - 🌱 I’m currently learning C++
+  - 👯 I’m looking to collaborate on Software Developer
 <!--
 **NguyenHao-us/NguyenHao-us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
