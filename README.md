@@ -2,7 +2,7 @@
   - ☑️ I'm Hao, current living in Gia Lai Province, VietNam <br/>
   - 🔭 I’m currently working on VNUHCM - University Of Science <br/>
   - 🌱 I’m currently learning C++, Python,... <br/>
-  - 👯 I’m looking to collaborate on Software Developer <br/><br/>
+  - 👯 I’m looking to collaborate on Software Developer <br/>
   - 📫 Reach me: <a href="https://www.facebook.com/ngvanhao.22">Nguyễn Hào</a><br/>
  <hr />
  
