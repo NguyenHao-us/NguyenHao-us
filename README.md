@@ -1,7 +1,12 @@
-Hi there, welcome to my Git Profile 👋
-  - 🔭 I’m currently working on VNUHCM - University Of Science
-  - 🌱 I’m currently learning C++
-  - 👯 I’m looking to collaborate on Software Developer
+<h1>Welcome to my Hao Nguyen's Github 👋</h1>
+  - ☑️ I'm Hao, current living in Gia Lai Province, VietNam <br/>
+  - 🔭 I’m currently working on VNUHCM - University Of Science <br/>
+  - 🌱 I’m currently learning C++, Python,... <br/>
+  - 👯 I’m looking to collaborate on Software Developer <br/><br/>
+  - 📫 Reach me: <a href="https://www.facebook.com/ngvanhao.22">Nguyễn Hào</a><br/>
+ <hr />
+ 
+ 
 <!--
 **NguyenHao-us/NguyenHao-us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
