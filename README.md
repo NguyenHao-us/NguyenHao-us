@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hào</h1>
 <h3 align="center">Software Engineering</h3>
 
+
+
 - 🌱 I’m currently studying in **University Of Science - VNU HCM**
 - 📫 How to reach me **haonguyencp22@gmail.com**
-
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=haonguyen22&label=Profile%20views&color=0eb45e&style=plastic"
+        alt="haonguyen22" /> </p>
+        
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nguyễn-hào-070b15232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyễn-hào-070b15232" height="30" width="40" /></a>
